@@ -1,8 +1,11 @@
 <html>
-<body>
-
-Welcome <?php echo $_GET["name"]; ?><br>
-Your email address is: <?php echo $_GET["email"]; ?>
-
-</body>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+  <?php 
+	header('Content-Type: text/html; charset=utf-8');
+	echo '<p>Hello World</p>'; 
+  ?> 
+ </body>
 </html>
