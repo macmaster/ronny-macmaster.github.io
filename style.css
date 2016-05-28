@@ -1,0 +1,22 @@
+body{
+	background-color: white;
+}
+
+h1{
+	font-size: 80;
+	font-weight: bold;
+	text-align: center;
+	margin: 20 auto;
+}
+
+p{
+	color: red;
+	font-size: 50;
+	text-align: center;
+	margin: 0 auto;
+}
+
+img{
+	display: block;
+	margin: 0 auto;
+}

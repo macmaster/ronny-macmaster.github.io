@@ -1,8 +1,10 @@
+<!DOCTYPE html>
 <html>
 <body>
-
-Welcome <?php echo $_GET["name"]; ?><br>
-Your email address is: <?php echo $_GET["email"]; ?>
+<?php 
+	$go = 10;
+	echo '$go'; 
+?>
 
 </body>
 </html>
