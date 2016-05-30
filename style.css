@@ -1,25 +1,29 @@
 body{
 	background-color: white;
-	background-image: url("http://thedolphinlmc.com/wp-content/uploads/2016/02/TRUMP-make-america-great-again-WHITE_5936.jpg");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
 }
 
 h1{
-	font-size: 80;
+	font-size: 45px;
 	font-weight: bold;
 	text-align: center;
-	margin: 20 auto;
+	margin: 10px auto;
 }
 
-p{
+body p{
 	color: red;
-	font-size: 50;
+	font-size: 30px;
 	text-align: center;
-	margin: 0 auto;
+	margin: 10px auto;
 }
 
 img{
 	display: block;
-	margin: 0 auto;
+	margin: 10px auto;
+}
+
+#page_footer p{
+	color: green;
+	font-size: 20;
+	text-align: center;
+	margin: 10px auto;
 }
