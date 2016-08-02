@@ -15,11 +15,21 @@ h1{
 	margin: 10px auto;
 }
 
-body p{
+#caption{
 	color: red;
 	font-size: 30px;
 	text-align: center;
 	margin: 10px auto;
+}
+
+#bio{
+	color: black;
+	font-size: 24px;
+	font-family: courier;
+	font-weight: bold;
+	line-height: 2.5;
+	text-indent: 50px
+	margin: 0, 0, 24px;
 }
 
 #page_footer #longhorn{

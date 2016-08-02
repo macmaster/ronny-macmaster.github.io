@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ronny.ml">
+        <wb-resource deploy-path="/" source-path="/src"/>
+        <wb-resource deploy-path="/pics" source-path="/pics"/>
+        <property name="context-root" value="ronny.ml"/>
+    </wb-module>
+</project-modules>
