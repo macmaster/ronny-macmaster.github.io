@@ -1,0 +1,49 @@
+/** style.css
+ * custom style file for my website.
+ * author: ronny macmaster
+ *
+ */
+
+@font-face {
+	font-family: 'pixelated';
+	src: url('font/pixel.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+ 
+.my-bg {
+	background-color: #000000;
+	font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;
+}
+
+.my-title {
+	color: #00AA00;
+	font-size: 50px;
+	font-weight: 500;
+	padding: 20px;
+}
+
+.my-banner {
+	color: #AA0000;
+	font-size: 30px;
+}
+
+.my-line {
+	height: 1px; 
+	border: none; 
+	width: 50%; 
+	background-color: white;
+}
+
+#qwerty-gif {
+	width: 50%; 
+	margin: 20px;
+}
+
+#construction-banner {
+	font-family: pixelated;
+	font-size: 50px;
+	color: yellow;
+	padding: 10px;
+}
