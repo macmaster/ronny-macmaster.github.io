@@ -44,6 +44,7 @@
 #construction-banner {
 	font-family: pixelated;
 	font-size: 50px;
+	font-stretch: normal;
 	color: yellow;
 	padding: 10px;
 }
